@@ -1,0 +1,16 @@
+{
+  "name": "project-0",
+  "version": "1.0.0",
+  "description": "My first attemp to create a webside",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-serve": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fermin Blanco",
+  "license": "ISC"
+}
